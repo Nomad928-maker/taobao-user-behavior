@@ -1,0 +1,18 @@
+# 原始数据不入库（3.4 GB，从天池下载）
+data/*.csv
+data/*.zip
+
+# 本地数据库
+*.duckdb
+*.duckdb.wal
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 系统文件
+.DS_Store
+Thumbs.db
