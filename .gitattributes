@@ -1,0 +1,2 @@
+# 让 GitHub 的语言统计忽略 notebook，主色显示真正的技术栈（SQL / Python）
+*.ipynb linguist-detectable=false
